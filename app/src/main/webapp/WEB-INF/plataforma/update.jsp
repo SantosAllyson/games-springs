@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Editar Plataformas</h1>
+        <h1>Editar Plataforma</h1>
         
         <form action="/plataforma/update" method="post">
             <input type="hidden" name="id" id="id" value="${plataforma.id}">

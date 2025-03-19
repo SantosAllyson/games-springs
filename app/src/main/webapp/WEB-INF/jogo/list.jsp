@@ -10,8 +10,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>jogos</h1>
-        <a href="/jogo/insert" class="btn btn-primary">Nova Jogo</a>
+        <h1>Jogos</h1>
+        <a href="/jogo/insert" class="btn btn-primary">Novo Jogo</a>
 
         <table class="table">
             <tr>

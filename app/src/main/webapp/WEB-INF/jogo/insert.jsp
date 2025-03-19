@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Nova Jogos</h1>
+        <h1>Novo Jogo</h1>
         
         <form action="/jogo/insert" method="post">
             <div class="form-group">

@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Remover Plataformas</h1>
+        <h1>Remover Plataforma</h1>
         
         <form action="/plataforma/delete" method="post">
             <input type="hidden" name="id" id="id" class="form-control" value="${plataforma.id}">

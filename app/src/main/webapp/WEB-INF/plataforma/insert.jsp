@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Nova Plataformas</h1>
+        <h1>Nova Plataforma</h1>
         
         <form action="/plataforma/insert" method="post">
             <div class="form-group">
