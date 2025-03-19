@@ -7,11 +7,14 @@
         <title>Home</title>
     </head>
     <body>
-        <h1>Menu Principal</h1>
-        <br>
-        <a href="/categoria/list" > Categoria </a>
-        <a href="/plataforma/list" > Plataforma </a>
-        <a href="/jogo/list" > Jogo </a>
+        <div class="container"> 
+            <h1>Menu Principal</h1>
+            <h1>ALBATROZ</h1>
+            <br>
+            <a href="/categoria/list"> Categoria </a>
+            <a href="/plataforma/list"> Plataforma </a>
+            <a href="/jogo/list"> Jogo </a>
+        </div>    
     </body>
 </html>
 
