@@ -9,6 +9,8 @@
     <body>
         <h1>Menu Principal</h1>
         <br>
+        <a href="/categoria/list" > Categoria </a>
+        <a href="/plataforma/list" > Plataforma </a>
         <a href="/jogo/list" > Jogo </a>
     </body>
 </html>
